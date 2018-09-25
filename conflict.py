@@ -1,1 +1,1 @@
-print("shikaku")
+print("×")
